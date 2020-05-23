@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		841163AF24792DDD00A517BC /* New1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 841163AD24792DDD00A517BC /* New1ViewController.swift */; };
+		841163B024792DDD00A517BC /* New1ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 841163AE24792DDD00A517BC /* New1ViewController.xib */; };
 		84E41D4E24790C8A004DDD57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E41D4D24790C8A004DDD57 /* AppDelegate.swift */; };
 		84E41D5224790C8A004DDD57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E41D5124790C8A004DDD57 /* ViewController.swift */; };
 		84E41D5724790C8C004DDD57 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84E41D5624790C8C004DDD57 /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		841163AD24792DDD00A517BC /* New1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = New1ViewController.swift; sourceTree = "<group>"; };
+		841163AE24792DDD00A517BC /* New1ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = New1ViewController.xib; sourceTree = "<group>"; };
 		84E41D4A24790C8A004DDD57 /* test503.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test503.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84E41D4D24790C8A004DDD57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84E41D5124790C8A004DDD57 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +61,8 @@
 				84E41D5624790C8C004DDD57 /* Assets.xcassets */,
 				84E41D5824790C8C004DDD57 /* LaunchScreen.storyboard */,
 				84E41D5B24790C8C004DDD57 /* Info.plist */,
+				841163AD24792DDD00A517BC /* New1ViewController.swift */,
+				841163AE24792DDD00A517BC /* New1ViewController.xib */,
 			);
 			path = test503;
 			sourceTree = "<group>";
@@ -120,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84E41D5A24790C8C004DDD57 /* LaunchScreen.storyboard in Resources */,
+				841163B024792DDD00A517BC /* New1ViewController.xib in Resources */,
 				84E41D5724790C8C004DDD57 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -132,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84E41D5224790C8A004DDD57 /* ViewController.swift in Sources */,
+				841163AF24792DDD00A517BC /* New1ViewController.swift in Sources */,
 				84E41D4E24790C8A004DDD57 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
