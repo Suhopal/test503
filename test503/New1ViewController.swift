@@ -14,7 +14,7 @@ class New1ViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        print(" New1ViewController ")
+        print(" New1ViewController new1 ")
     }
 
 
