@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        print("ViewController 111 333 777")
+        print("ViewController new")
     }
 
 
