@@ -18,7 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         return true
     }
 
-    // developer83
+    // developer83 - developer832
     func applicationWillResignActive(_ application: UIApplication) {
         print("applicationWillResignActive developer83 BR 102 test503")
 
