@@ -18,14 +18,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         return true
     }
 
-
+    // developer83
     func applicationWillResignActive(_ application: UIApplication) {
-        print("applicationWillResignActive developer81 BR 102 test503")
+        print("applicationWillResignActive developer83 BR 102 test503")
 
     }
     
     func applicationDidEnterBackground(_ application: UIApplication) {
-        print("applicationDidEnterBackground developer81 BR 102 test503")
+        print("applicationDidEnterBackground developer83 BR 102 test503")
         
     }
     
