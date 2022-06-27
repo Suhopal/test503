@@ -15,6 +15,7 @@
 		84E41D5224790C8A004DDD57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E41D5124790C8A004DDD57 /* ViewController.swift */; };
 		84E41D5724790C8C004DDD57 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84E41D5624790C8C004DDD57 /* Assets.xcassets */; };
 		84E41D5A24790C8C004DDD57 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84E41D5824790C8C004DDD57 /* LaunchScreen.storyboard */; };
+		B9AB089D2869A76300D803A3 /* MCSManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9AB089C2869A76300D803A3 /* MCSManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		84E41D5624790C8C004DDD57 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84E41D5924790C8C004DDD57 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84E41D5B24790C8C004DDD57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B9AB089C2869A76300D803A3 /* MCSManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MCSManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 		841163B1247A00B000A517BC /* Classes2 */ = {
 			isa = PBXGroup;
 			children = (
+				B9AB089C2869A76300D803A3 /* MCSManager.swift */,
 				841163B2247A00BD00A517BC /* New2ViewController.swift */,
 				841163B3247A00BD00A517BC /* New2ViewController.xib */,
 			);
@@ -153,6 +156,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B9AB089D2869A76300D803A3 /* MCSManager.swift in Sources */,
 				84E41D5224790C8A004DDD57 /* ViewController.swift in Sources */,
 				841163AF24792DDD00A517BC /* New1ViewController.swift in Sources */,
 				841163B4247A00BD00A517BC /* New2ViewController.swift in Sources */,
@@ -293,12 +297,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 3Z3Z2QU4A3;
 				INFOPLIST_FILE = test503/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.suhopal.test503;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aaa.test503;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -310,12 +315,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 3Z3Z2QU4A3;
 				INFOPLIST_FILE = test503/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.suhopal.test503;
+				PRODUCT_BUNDLE_IDENTIFIER = com.aaa.test503;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
